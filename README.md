@@ -27,14 +27,17 @@ Hi there, I'm Lim Jia Liang! 👋<br>Software Engineering student at Universiti 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=LIMJIALIANG&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=LIMJIALIANG&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LIMJIALIANG&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://streak-stats.demolab.com/?user=LIMJIALIANG&theme=codeSTACKr&hide_border=false" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LIMJIALIANG&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="49%" alt="Top Languages" />
 
 </div>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<div align="center">
+  
+### ✍️️ Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" width="100%" alt="Dev Quote" />
+
+</div>
   
 <div align="center">
   
