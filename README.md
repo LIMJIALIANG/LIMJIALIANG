@@ -35,10 +35,6 @@ Hi there, I'm Lim Jia Liang! 👋<br>Software Engineering student at Universiti 
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-<div align="center">
   
 ### 🐍 Watch the Snake Eat My Contributions
-<img src="https://raw.githubusercontent.com/LIMJIALIANG/LIMJIALIANG/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
