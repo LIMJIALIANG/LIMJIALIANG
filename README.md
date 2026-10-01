@@ -39,6 +39,6 @@ Hi there, I'm Lim Jia Liang! 👋<br>Software Engineering student at Universiti 
 <div align="center">
   
 ### 🐍 Watch the Snake Eat My Contributions
-![Snake animation](https://github.com/LIMJIALIANG/LIMJIALIANG/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/LIMJIALIANG/LIMJIALIANG/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
