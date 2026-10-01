@@ -62,9 +62,14 @@ Hi there, I'm Lim Jia Liang! 👋<br>Software Engineering student at Universiti 
 
 <br/>
 
+<br/>
+
 <div align="center">
 
-### 🤌 Arrivederci! Thanks for dropping by! 🤌
-<img src="https://media.tenor.com/15w5qZ8k51kAAAAi/mario-wave.gif" width="150px" alt="Mario Waving Goodbye" />
+***
+
+### 🤌 *Arrivederci!* Thanks for dropping by! 🍝🍷
+
+***
 
 </div>
